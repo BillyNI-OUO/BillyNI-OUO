@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyNI-OUO&count_private=true&show_icons=true&theme=merko&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyNI-OUO&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+#### Recently Porojects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BillyNI-OUO&repo=smart-gym-crawler&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BillyNI-OUO&repo=smart-restaurant-client&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
